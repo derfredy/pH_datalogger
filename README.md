@@ -1,7 +1,7 @@
 # pH_datalogger
 pH data logger fo Eheim pHcontrol+
 
-![plot](./plot.png)
+![plot](./ph_graph.png)
 
 Read full article here:
 
